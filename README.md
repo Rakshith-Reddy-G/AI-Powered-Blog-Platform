@@ -10,7 +10,7 @@ AI-driven blogging platform enabling intelligent content generation, SEO optimiz
 
 - Full-text search and SEO optimization
 
-- Comment moderation using sentiment analysis
+-Comment moderation using sentiment analysis
 
 * Tech Stack: 
 
