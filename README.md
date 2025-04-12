@@ -4,11 +4,11 @@ AI-driven blogging platform enabling intelligent content generation, SEO optimiz
 
 * Features:
 
-- AI-generated content suggestions (OpenAI API)
+-AI-generated content suggestions (OpenAI API)
 
-- Markdown support for writing posts
+-Markdown support for writing posts
 
-- Full-text search and SEO optimization
+-Full-text search and SEO optimization
 
 -Comment moderation using sentiment analysis
 
